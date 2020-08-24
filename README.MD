@@ -1,3 +1,5 @@
+This is a project of Kaggle competition by the group Business Hunter. This is a revenue competition task. We were one of the toppers based on accuracy score.
+
 Requirements:
 	- Python 3
 	- XGBOOST - (XGBoost)
@@ -89,7 +91,5 @@ Steps to run correctly:
 
 __________________________________________________________________________________________________________________________________________________________
 
-DIVISION OF LABOR:
 
-Everything done together.
 	
